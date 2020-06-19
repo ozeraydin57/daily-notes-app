@@ -1,11 +1,7 @@
-# sqflitedemo
-
-sqflite ile veri tabanı işlemleri yapılmaktadır.
-
--Ürün ekleme
-
--Ürün silme
-
--Ürün güncelleme
 # daily-notes-app
-# daily-notes-app
+
+-you can manage your todo list
+
+-edite update delete refresh your task
+
+-made with flutter
